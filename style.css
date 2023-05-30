@@ -358,7 +358,7 @@ a {
 .project-card {
     width: 90%;
     height: 550px;
-    background-image: url(./images/project-background.jpg);
+    background-image: url(./project-background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     box-shadow: 0px 0px 40px #1f1f1f;
